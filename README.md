@@ -1,4 +1,4 @@
-# Assessment Codebase Guide
+
 
 This guide will help you understand the codebase architecture and set up your services, endpoints, and middleware correctly. This is NOT a solution to the assessment - it's a reference guide to help you implement your own solution following the codebase conventions.
 
@@ -361,7 +361,7 @@ HTTP_409_CONFLICT            // Duplicate resource
 
 // Server error codes
 HTTP_500_INTERNAL_SERVER_ERROR // General server error
-HTTP_503_SERVICE_UNAVAILABLE   // Service down
+HTTP_503_SERVICE_UNAVUNAVAIL Service down
 ```
 
 **Usage Example:**
